@@ -5,6 +5,6 @@
 <details>
   <summary><strong>📸 My Best Projects Screenshots</strong></summary>
 
-  <img src="https://freelancermanagement.gif" width="100%" />
+  <img src="freelancermanagement.gif" width="100%" />
   
 </details>
