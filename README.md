@@ -6,6 +6,6 @@
 ## 📸 My Best Projects Screenshots
 
   <img src="freelancermanagement.gif" width="100%" />
-  <img src="mobileadscaranalytics.jpg" width="100%" />
+  <img src="mobileadscaranalytics.gif" width="100%" />
 
 
